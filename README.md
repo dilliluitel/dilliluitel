@@ -1,15 +1,21 @@
 
 
-# Namaste _/\\\_ <br><br>
+# Namaste _/\\\_ <br>
 
 
 ### I’m currently learning: 
-Discuss the reason(s) you are on GitHub.</br></br>
-### I enjoy:
-Talk about your interests--technical or non-technical </br></br>
-## Professional
-List at least one professional experience or position that relates to coding. Keep this section brief. You may get inspiration from your LinkedIn profile page. </br></br>
+- Git & GitHub
+- Web development
+- Programming Fundamentals (future learning)
 
-## Image  ![alt text](image URL)
+### I enjoy:
+- Reading books, surfing internet for new content.
+- Doing Yoga, Aasana, Pranayama and Meditation.
+- Getting out in nature and hiking.
+</br>
+
+I have recently signed up on GitHub and created my first GitHub repository. Successfully clone it to my local git repository. Completed the learning tutorials on Git essentials and Git Branches. I am looking forward to host, share, fork and collaborate in various projects in GitHub as my career advances in the development world.
+</br></br>
+
 
 
