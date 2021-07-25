@@ -18,4 +18,17 @@ I have recently signed up on GitHub and created my first GitHub repository. Succ
 </br></br>
 
 
+## **Professional**
+[![](Images/microsoft_logo1.png)](https://www.microsoft.com/) </br>
+***DataCenter Technician at Microsoft***  </br>
+
+Currently working as Datacenter Technician at Microsoft Cloud Operation plus Innovation (CO+I). Have opportunity to aboard the first ever Microsoft Internal Leap Program. Really excited about this program and what it has to unfold for my future career development.
+</br></br>
+
+**Contact** 
+- *<diluitel@microsoft.com>*
+- *<https://www.linkedin.com/in/dilli-luitel>* </br></br>
+
+
+<!-- ![blis of sunset](Images/sun_set.jpg)-->
 
