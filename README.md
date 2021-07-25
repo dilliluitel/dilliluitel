@@ -19,7 +19,10 @@ I have recently signed up on GitHub and created my first GitHub repository. Succ
 
 
 ## **Professional**
-[![](Images/microsoft_logo1.png)](https://www.microsoft.com/) </br>
+[![](https://github.com/dilliluitel/dilliluitel/blob/main/Images/microsoft_logo1.PNG)](https://www.microsoft.com/) </br>
+
+<!--[![](Images/microsoft_logo1.png)](https://www.microsoft.com/) -->
+
 ***DataCenter Technician at Microsoft***  </br>
 
 Currently working as Datacenter Technician at Microsoft Cloud Operation plus Innovation (CO+I). Have opportunity to aboard the first ever Microsoft Internal Leap Program. Really excited about this program and what it has to unfold for my future career development.
