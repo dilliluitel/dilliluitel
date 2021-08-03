@@ -19,9 +19,10 @@ I have recently signed up on GitHub and created my first GitHub repository. Succ
 
 
 ## **Professional**
-[![](https://github.com/dilliluitel/dilliluitel/blob/main/Images/microsoft_logo1.PNG)](https://www.microsoft.com/) </br>
+<!--[![](https://github.com/dilliluitel/dilliluitel/blob/main/Images/microsoft_logo1.PNG)](https://www.microsoft.com/) -->
 
-<!--[![](Images/microsoft_logo1.png)](https://www.microsoft.com/) -->
+[![](Images/microsoft_logo1.PNG)](https://www.microsoft.com/)
+</br>
 
 ***DataCenter Technician at Microsoft***  </br>
 
